@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/reactbank/static/js/main.ce3754aa.js",
+    "static/media/dinero.svg": "/reactbank/static/media/dinero.fd1502972a42e92fd69792dd13d3969a.svg",
+    "static/media/alimentacion.svg": "/reactbank/static/media/alimentacion.c8e70a258eb596777e30c13983779417.svg",
+    "static/media/themeOn.svg": "/reactbank/static/media/themeOn.e0f6e4537091311616ac998e52078aa0.svg",
+    "static/media/salud.svg": "/reactbank/static/media/salud.6f38a1e4ea2fbf3ceb40fd4b68528a5e.svg",
+    "static/media/transporte.svg": "/reactbank/static/media/transporte.f7ce14f958f4aa4b0905473e73cfc90a.svg",
+    "static/media/utilidades.svg": "/reactbank/static/media/utilidades.359d3a0fd9f17bd7f3856ac9c62a4d1c.svg",
+    "static/media/logo.svg": "/reactbank/static/media/logo.31122d1f8553eccfeca84074b17c7e02.svg",
+    "static/media/privado.svg": "/reactbank/static/media/privado.6ca8038a3072f8ee10faa53cb936d4d5.svg",
+    "static/media/otros.svg": "/reactbank/static/media/otros.eb3b2b82475a707b45f8548589fcd7c5.svg",
+    "static/media/themeOff.svg": "/reactbank/static/media/themeOff.95a646ca6b312e16d199e2bf0d27e638.svg",
+    "static/media/ojo.svg": "/reactbank/static/media/ojo.a2950b777aa0a8c24fb71bd22200b966.svg",
+    "index.html": "/reactbank/index.html",
+    "main.ce3754aa.js.map": "/reactbank/static/js/main.ce3754aa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ce3754aa.js"
+  ]
+}
